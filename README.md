@@ -1,8 +1,6 @@
 # Competitive Programming
 
-Solutions to competitive programming problems from the **Canadian Computing Competition (CCC)** and **DMOJ**, written in C, C++, and Java.
-
----
+Solutions to competitive programming problems from the **Canadian Computing Competition (CCC)** and **DMOJ**, written in C, C++, and Java. The collection spans 150+ solved problems across algorithms, data structures, dynamic programming, graph theory, string processing, and computational geometry.
 
 ## Canadian Computing Competition (CCC)
 
@@ -29,8 +27,6 @@ The CCC is Canada's premier annual high school programming competition, organize
 - **Math & Combinatorics** — modular inverse, fast exponentiation, RSA numbers, Fibonacci
 - **Geometry** — Voronoi diagrams, triangle problems, spiral patterns
 
----
-
 ## DMOJ
 
 Solutions to problems from [DMOJ: Modern Online Judge](https://dmoj.ca/), an online judge for Canadian high school competitive programming.
@@ -40,9 +36,23 @@ Solutions to problems from [DMOJ: Modern Online Judge](https://dmoj.ca/), an onl
 | `DMOJ/C++/` | C++ | Max Flow, Sorting, Mirrored Pairs, CCC '14 S3 Geneva Confection, CCC '15 S3 Gates, VM7WC Gold |
 | `DMOJ/Java/` | Java | DMPG, TLE, VMSS, WAC contest problems |
 
----
+## Skills Demonstrated
 
-## Languages
+- Competitive programming — CCC and DMOJ contest problem solving
+- Algorithms & data structures — broad coverage across 150+ solved problems
+- Graph algorithms — BFS, DFS, shortest path, cycle detection, Eulerian paths, max flow
+- Dynamic programming — coin change, knapsack, and sequence DP formulations
+- Sorting & searching — binary search and merge / quick / dual-pivot quicksort
+- Tree & set structures — binary search trees, disjoint sets, segment trees, hash tables
+- String processing — pattern matching, compression, and Huffman / Morse / CRC encoding
+- Math & combinatorics — modular inverse, fast exponentiation, RSA, Fibonacci
+- Computational geometry — Voronoi diagrams, triangle and spiral problems
+- Multi-language fluency — solving the same class of problems in C, C++, and Java
+- Complexity & optimization — meeting contest time and memory limits
 
-- **C / C++** — primary language for CCC 2023-2024 solutions
-- **Java** — used for competition class practice and DMOJ problems
+## Tech Stack
+
+- C
+- C++
+- Java
+- Eclipse IDE (CCC / DMOJ workspaces)
